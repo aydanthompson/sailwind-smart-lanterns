@@ -3,6 +3,7 @@
 Features:  
 •  Automatically turns all lanterns on/off based on the start and stop times set in the configuration file  
 •  When lanterns use up their candle, they are automatically restocked from any sealed lantern crate you have.  
+•  When lanterns use up their oil, they are automatically restocked from any oil bottles laying around/in crates/in your inventory.  
     
 Compatibility:  
 • No known compatibility issues.  
